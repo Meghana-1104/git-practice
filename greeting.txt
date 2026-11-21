@@ -1,1 +1,1 @@
-Hello, I am learning Git and github 
+Hello, I am learning Git in vs code. 
